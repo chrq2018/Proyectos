@@ -1,5 +1,11 @@
 package tp;
 import java.util.Scanner;
+/* EJERCICIO 5
+ * Realiza un programa que permita ingresar valores del mismo tipo para
+ * las variables a y b. Una vez cargadas, mostrar ambas variables por
+ * pantalla, intercambia sus valores (que lo cargado en a quede en b, y
+ * viceversa) y volve a mostrarlas actualizadas.
+ */
 public class TP1_A1_Ej5 {
 public static Scanner input = new Scanner(System.in);
 	public static void main(String[] args) {

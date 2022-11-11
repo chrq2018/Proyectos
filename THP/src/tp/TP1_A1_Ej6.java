@@ -1,5 +1,11 @@
 package tp;
 import java.util.Scanner;
+/* EJERCICIO 6
+ * Realiza un programa que permita ingresar el monto total de las ventas realizadas
+ * por un vendedor durante el mes, de quien se sabe que gana un sueldo fijo de
+ * 44000 pesos mas el 16 por ciento del monto total vendido. Con tales datos debes
+ * calcular y mostrar el importe a cobrar por el vendedor.
+ */
 public class TP1_A1_Ej6 {
 	public static Scanner input = new Scanner(System.in);
 	public static final double SUELDO_FIJO = 44000;

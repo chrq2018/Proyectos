@@ -1,5 +1,11 @@
 package tp;
 import java.util.Scanner;
+/*
+ * 3. Realizá un programa que permita ingresar un número entero. 
+ * Debe mostrarse el número ingresado:
+ * a. Multiplicado por 5.
+ * b. Dividido por 2.
+ */
 public class TP1_A1_Ej3 {
 	public static final int MULTIPLICA_POR = 5;
 	public static final int DIVIDIDO_POR = 2;
