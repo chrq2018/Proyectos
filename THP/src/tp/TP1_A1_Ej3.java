@@ -12,5 +12,4 @@ public class TP1_A1_Ej3 {
 		System.out.println("El numero ingresado divido por 2 es: " + (float)numero/DIVIDIDO_POR);
 		input.close();
 	}
-
 }
