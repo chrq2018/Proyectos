@@ -1,4 +1,4 @@
-package tp;
+package tp1;
 import java.util.Scanner;
 /*
  * EJERCICIO 7
@@ -6,7 +6,7 @@ import java.util.Scanner;
  * y el valor del metro cuadrado de tierra. Debe mostrarse el valor total del terreno y
  * la cantidad de metros de alambre para cercarlo completamente a tres alturas distintas.
  */
-public class TP1_A1_Ej7 {
+public class Act1_Ej7 {
 	public static final int CANTIDAD_VUELTAS_ALAMBRE = 3;
 	public static Scanner input = new Scanner(System.in);
 	public static void main(String[] args) {

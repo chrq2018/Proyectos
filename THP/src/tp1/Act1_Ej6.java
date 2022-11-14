@@ -1,4 +1,4 @@
-package tp;
+package tp1;
 import java.util.Scanner;
 /* EJERCICIO 6
  * Realiza un programa que permita ingresar el monto total de las ventas realizadas
@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 44000 pesos mas el 16 por ciento del monto total vendido. Con tales datos debes
  * calcular y mostrar el importe a cobrar por el vendedor.
  */
-public class TP1_A1_Ej6 {
+public class Act1_Ej6 {
 	public static Scanner input = new Scanner(System.in);
 	public static final double SUELDO_FIJO = 44000;
 	public static final double PORCENTAJE_VENTA = 0.16;

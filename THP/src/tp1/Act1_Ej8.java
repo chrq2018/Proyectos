@@ -1,4 +1,4 @@
-package tp;
+package tp1;
 import java.util.Scanner;
 /*
  * EJERCICIO 8
@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Debes mostrar los resultados para las 4 operaciones matematicas basicas
  * con los numeros ingresados.
  */
-public class TP1_A1_Ej8 {
+public class Act1_Ej8 {
 	public static Scanner input = new Scanner(System.in);
 	public static void main(String[] args) {
 		int num1, num2;

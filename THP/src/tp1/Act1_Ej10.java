@@ -1,4 +1,4 @@
-package tp;
+package tp1;
 import java.util.Scanner;
 /*
  * EJERCICIO 10
@@ -9,7 +9,7 @@ import java.util.Scanner;
  * cada socio, su capital aportado y a partir de esto calcular e informar
  * lo requerido previamente.
  */
-public class TP1_A1_Ej10 {
+public class Act1_Ej10 {
 	public static Scanner input = new Scanner(System.in);
 	public static void main(String[] args) {
 		String nombreSocio1, nombreSocio2, nombreSocio3;

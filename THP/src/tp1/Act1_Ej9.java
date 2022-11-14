@@ -1,4 +1,4 @@
-package tp;
+package tp1;
 import java.util.Scanner;
 /*
  * EJERCICIO 9
@@ -7,7 +7,7 @@ import java.util.Scanner;
  * el programa debe mostrar el valor en grados del angulo restante. Recorda que la suma de los
  * angulos interiores de todo triangulo es de 180 grados.
  */
-public class TP1_A1_Ej9 {
+public class Act1_Ej9 {
 	public static final int SUMA_ANGULOS_INTERIORES = 180;
 	public static Scanner input = new Scanner(System.in);
 	public static void main(String[] args) {

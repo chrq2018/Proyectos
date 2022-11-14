@@ -1,4 +1,4 @@
-package tp;
+package tp1;
 import java.util.Scanner;
 /* EJERCICIO 4
  * Realiza un programa que permita ingresar el valor monetario de
@@ -7,7 +7,7 @@ import java.util.Scanner;
  * sabiendo que trabaja todos los días hábiles y la mitad de las
  * horas del día habil los sabados. (Todas las horas valen lo mismo.)
  */
-public class TP1_A1_Ej4 {
+public class Act1_Ej4 {
 	private static Scanner input = new Scanner(System.in);
 	public static final double CANT_DIAS_HABILES = 5.5;
 	public static void main(String[] args) {

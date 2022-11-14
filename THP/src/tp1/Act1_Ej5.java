@@ -1,4 +1,4 @@
-package tp;
+package tp1;
 import java.util.Scanner;
 /* EJERCICIO 5
  * Realiza un programa que permita ingresar valores del mismo tipo para
@@ -6,7 +6,7 @@ import java.util.Scanner;
  * pantalla, intercambia sus valores (que lo cargado en a quede en b, y
  * viceversa) y volve a mostrarlas actualizadas.
  */
-public class TP1_A1_Ej5 {
+public class Act1_Ej5 {
 public static Scanner input = new Scanner(System.in);
 	public static void main(String[] args) {
 		int num1,num2,aux;
