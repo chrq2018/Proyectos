@@ -9,7 +9,7 @@ import java.util.Scanner;
  */
 public class Act1_Ej9 {
 	public static final int SUMA_ANGULOS_INTERIORES = 180;
-	public static Scanner input = new Scanner(System.in);
+	private static Scanner input = new Scanner(System.in);
 	public static void main(String[] args) {
 		double angulo1, angulo2, anguloRestante;
 		System.out.println("ingrese el valor del angulo: ");

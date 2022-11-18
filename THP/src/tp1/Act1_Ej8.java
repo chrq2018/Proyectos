@@ -7,7 +7,7 @@ import java.util.Scanner;
  * con los numeros ingresados.
  */
 public class Act1_Ej8 {
-	public static Scanner input = new Scanner(System.in);
+	private static Scanner input = new Scanner(System.in);
 	public static void main(String[] args) {
 		int num1, num2;
 		double suma, resta, multiplicacion, division;

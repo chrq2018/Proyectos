@@ -7,7 +7,7 @@ import java.util.Scanner;
  * viceversa) y volve a mostrarlas actualizadas.
  */
 public class Act1_Ej5 {
-public static Scanner input = new Scanner(System.in);
+	private static Scanner input = new Scanner(System.in);
 	public static void main(String[] args) {
 		int num1,num2,aux;
 		System.out.println("Ingrese un valor: ");

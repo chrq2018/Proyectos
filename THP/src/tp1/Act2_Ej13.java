@@ -5,7 +5,7 @@ import java.util.Scanner;
  * enteros e indique cuál de ellos es el mayor y su valor.
  */
 public class Act2_Ej13 {
-	public static Scanner input = new Scanner(System.in);
+	private static Scanner input = new Scanner(System.in);
 	public static void main(String[] args) {
 		int num1, num2, num3;
 		System.out.print("Ingrese un numero entero: ");

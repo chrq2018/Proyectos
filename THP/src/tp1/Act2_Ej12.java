@@ -7,7 +7,7 @@ package tp1;
 import java.util.Scanner;
 
 public class Act2_Ej12 {
-	public static Scanner input = new Scanner(System.in);
+	private static Scanner input = new Scanner(System.in);
 	public static void main(String[] args) {
 		int num1, num2;
 		System.out.println("Ingrese un numero entero: ");

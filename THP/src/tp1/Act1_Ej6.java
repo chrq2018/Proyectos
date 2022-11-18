@@ -7,7 +7,7 @@ import java.util.Scanner;
  * calcular y mostrar el importe a cobrar por el vendedor.
  */
 public class Act1_Ej6 {
-	public static Scanner input = new Scanner(System.in);
+	private static Scanner input = new Scanner(System.in);
 	public static final double SUELDO_FIJO = 44000;
 	public static final double PORCENTAJE_VENTA = 0.16;
 	public static void main(String[] args) {

@@ -10,7 +10,7 @@ import java.util.Scanner;
  * lo requerido previamente.
  */
 public class Act1_Ej10 {
-	public static Scanner input = new Scanner(System.in);
+	private static Scanner input = new Scanner(System.in);
 	public static void main(String[] args) {
 		String nombreSocio1, nombreSocio2, nombreSocio3;
 		double capitalSocio1, capitalSocio2, capitalSocio3, porcentajeAportadoSocio1, porcentajeAportadoSocio2, porcentajeAportadoSocio3, capitalTotal;

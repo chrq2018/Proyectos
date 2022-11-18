@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class Act1_Ej7 {
 	public static final int CANTIDAD_VUELTAS_ALAMBRE = 3;
-	public static Scanner input = new Scanner(System.in);
+	private static Scanner input = new Scanner(System.in);
 	public static void main(String[] args) {
 		double ancho,largo, valorMetroCuadradoTierra, valorTotalTerreno, cantMetrosAlambre;
 		System.out.println("Ingrse el ancho: ");
